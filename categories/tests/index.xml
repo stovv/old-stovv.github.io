@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tests - stavv</title>
+    <link>https://stovv.github.io/categories/tests/</link>
+    <description>Recent content in tests on stavv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+        <atom:link href="https://stovv.github.io/categories/tests/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Python Test - #0</title>
+      <link>https://stovv.github.io/posts/test_python_init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/test_python_init/</guid>
+      <description>Начальная проверка знаний - Python</description>
+    </item>
+  </channel>
+</rss>

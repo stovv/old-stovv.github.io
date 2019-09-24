@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home - stavv</title>
+    <link>https://stovv.github.io/</link>
+    <description>Recent content in home on stavv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="https://stovv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CV</title>
+      <link>https://stovv.github.io/cv/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/cv/</guid>
+      <description>Professional skills, awards, work experience and general resume about me</description>
+    </item><item>
+      <title>Python Test - #0</title>
+      <link>https://stovv.github.io/posts/test_python_init/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/test_python_init/</guid>
+      <description>Начальная проверка знаний - Python</description>
+    </item>
+  </channel>
+</rss>
