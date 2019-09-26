@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python - stavv</title>
+    <link>https://stovv.github.io/categories/python/</link>
+    <description>Recent content in python on stavv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+        <atom:link href="https://stovv.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🐍Python variables, types, arrays, cycles</title>
+      <link>https://stovv.github.io/posts/python/python_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/python/python_0/</guid>
+      <description>Description of the post (displayed in the post&#39;s card)</description>
+    </item>
+  </channel>
+</rss>

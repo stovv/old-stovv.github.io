@@ -15,6 +15,13 @@
       
       <guid>https://stovv.github.io/posts/test_python_init/</guid>
       <description>Начальная проверка знаний - Python</description>
+    </item><item>
+      <title>🐍Python variables, types, arrays, cycles</title>
+      <link>https://stovv.github.io/posts/python/python_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/python/python_0/</guid>
+      <description>Description of the post (displayed in the post&#39;s card)</description>
     </item>
   </channel>
 </rss>
