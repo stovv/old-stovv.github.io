@@ -3,6 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stovv.github.io/categories/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stovv.github.io/posts/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stovv.github.io/categories/python/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stovv.github.io/posts/python/python_0/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stovv.github.io/posts/test_python_init/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stovv.github.io/categories/tests/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stovv.github.io/cv/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
@@ -13,36 +47,8 @@
   </url>
   
   <url>
-    <loc>https://stovv.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stovv.github.io/posts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stovv.github.io/posts/test_python_init/</loc>
-  </url>
-  
-  <url>
     <loc>https://stovv.github.io/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stovv.github.io/categories/python/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stovv.github.io/categories/tests/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stovv.github.io/posts/python/python_0/</loc>
   </url>
   
 </urlset>

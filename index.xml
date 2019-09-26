@@ -10,26 +10,26 @@
         <atom:link href="https://stovv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>🐍Python variables, types, arrays, cycles</title>
+      <link>https://stovv.github.io/posts/python/python_0/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/python/python_0/</guid>
+      <description>Description of the post (displayed in the post&#39;s card)</description>
+    </item><item>
+      <title>Python Test - #0</title>
+      <link>https://stovv.github.io/posts/test_python_init/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stovv.github.io/posts/test_python_init/</guid>
+      <description>Начальная проверка знаний - Python</description>
+    </item><item>
       <title>CV</title>
       <link>https://stovv.github.io/cv/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://stovv.github.io/cv/</guid>
       <description>Professional skills, awards, work experience and general resume about me</description>
-    </item><item>
-      <title>Python Test - #0</title>
-      <link>https://stovv.github.io/posts/test_python_init/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stovv.github.io/posts/test_python_init/</guid>
-      <description>Начальная проверка знаний - Python</description>
-    </item><item>
-      <title>🐍Python variables, types, arrays, cycles</title>
-      <link>https://stovv.github.io/posts/python/python_0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stovv.github.io/posts/python/python_0/</guid>
-      <description>Description of the post (displayed in the post&#39;s card)</description>
     </item>
   </channel>
 </rss>
